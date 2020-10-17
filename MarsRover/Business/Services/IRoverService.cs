@@ -1,7 +1,7 @@
 ﻿using MarsRover.Helper;
 using System.Collections.Generic;
 
-namespace MarsRover.Business.Servicec
+namespace MarsRover.Business.Services
 {
     public interface IRoverService
     {
